@@ -1,2 +1,2 @@
 # la-spesa
-This is a fullstack MERN shopping list app
+working on a fullstack MERN shopping list app
